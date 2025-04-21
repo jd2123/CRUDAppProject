@@ -1,0 +1,12 @@
+i {
+    cursor: pointer;
+}
+
+.hide {
+    display: none;
+}
+
+
+.price-range-container input[type="range"] {
+    width: 200px;
+}
